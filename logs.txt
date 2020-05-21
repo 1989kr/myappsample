@@ -1,0 +1,7 @@
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2316 file4.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2316 file3.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2316 file2.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2316 file5.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2317 file7.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 30 2317 file6.log
+-rw-r--r--  1 bobbelderbos  wheel     0B Oct 31 0010 file1.log
