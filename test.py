@@ -1,6 +1,7 @@
-var=7
+car=3
 
-mam =4
 
-def owal():
-    print(var)
+mam=4
+
+def kowal():
+    print(car)
